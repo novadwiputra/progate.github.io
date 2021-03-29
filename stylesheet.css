@@ -194,11 +194,17 @@ header {
 }
 
 .footer-logo {
-  background-color: #5dca88;
   float: left;
+  font-size: 23px;
 }
 
 footer {
   padding-top: 30px;
   padding-bottom: 20px;
+  background-color: #2f5167;
+  color: #fff;
+}
+
+.footer-list {
+  float: right;
 }
