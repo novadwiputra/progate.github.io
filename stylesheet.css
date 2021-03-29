@@ -201,7 +201,7 @@ header {
 footer {
   padding-top: 30px;
   padding-bottom: 20px;
-  background-color: #2f5167;
+  background-color: rgba(34, 49, 52, 0.9);
   color: #fff;
 }
 
