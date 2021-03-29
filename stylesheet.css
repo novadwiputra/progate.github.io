@@ -195,6 +195,7 @@ header {
 
 .footer-logo {
   background-color: #5dca88;
+  float: left;
 }
 
 footer {
