@@ -193,13 +193,8 @@ header {
   box-shadow: none;
 }
 
-footer img {
-  width: 125px;
-}
-
-footer p {
-  color: #b3aeb5;
-  font-size: 12px;
+.footer-logo {
+  background-color: #5dca88;
 }
 
 footer {
